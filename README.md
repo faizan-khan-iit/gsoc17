@@ -1,6 +1,10 @@
 # Google Summer of Code, 2017: Animint
 
-Summary of the __Animated Interactive Plots (animint)__ project under the mentorship of _Toby Dylan Hocking_ and _Carson Sievert_ for the R project for statistical computing.
+Summary of the __Animated Interactive Plots (animint)__ project under the _R project for statistical computing_.
+
+##### Student: [Faizan Uddin Fahad Khan](https://github.com/faizan-khan-iit)
+
+##### Mentors: [Toby Dylan Hocking](https://github.com/tdhock) and [Carson Sievert](https://github.com/cpsievert)
 
 ### Abstract
 `animint` package in R allows animated data visualization which is a useful tool for obtaining an intuitive understanding of patterns in multivariate data sets used extensively in data related environments. It uses the `ggplot2` syntax and is based on the widely accepted _Grammar of Graphics_. This aim of the project was to build upon the already existing `animint` package by adding new useful features all the while making it more portable and developer friendly.
