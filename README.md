@@ -52,7 +52,7 @@ So all the tests and examples in the package had to be rewritten for the code to
 ------------------------------------
 
 ### Link to commits
-The links to all the commits ar given below:
+The links to all the commits are given below:
 1. [Refactor Code](https://github.com/tdhock/animint2/pull/4/commits)
 2. [`ggplot2` dependency and new syntax](https://github.com/tdhock/animint2/commits/dev?author=faizan-khan-iit)
 3. [`ggplot2Animint`](https://github.com/faizan-khan-iit/ggplot2/commits/validate-params?author=faizan-khan-iit)
