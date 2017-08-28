@@ -56,8 +56,9 @@ The links to all the commits are given below:
 1. [Refactor Code](https://github.com/tdhock/animint2/pull/4/commits)
 2. [`ggplot2` dependency and new syntax](https://github.com/tdhock/animint2/commits/dev?author=faizan-khan-iit)
 3. [`ggplot2Animint`](https://github.com/faizan-khan-iit/ggplot2/commits/validate-params?author=faizan-khan-iit)
+4. [Optimization using `data.table`](https://github.com/tdhock/animint2/pull/8/commits)
 
 ------------------------------------
 
 ### Future Work
-Currently the aim is to introduce a `data.table` dependency in `animint2` for performance and stability improvements. The progress can be [tracked here](https://github.com/tdhock/animint2/pull/8). Another idea for further improvement would be to port the geom specific code from `animint2` to `ggplot2Animint`.
+Currently the aim is to introduce a `data.table` dependency in `animint2` for performance optimization. The progress can be [tracked here](https://github.com/tdhock/animint2/pull/8). Another idea for further improvement would be to port the geom specific code from `animint2` to `ggplot2Animint`.
