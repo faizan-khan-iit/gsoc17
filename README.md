@@ -60,4 +60,4 @@ The links to all the commits are given below:
 ------------------------------------
 
 ### Future Work
-Currently the aim is to introduce a `data.table` dependency in `animint2` for performance and stability improvements. The discussion can be [tracked here](https://github.com/tdhock/animint2/issues/2). Another idea for further improvement would be to port the geom specific code from `animint2` to `ggplot2Animint`.
+Currently the aim is to introduce a `data.table` dependency in `animint2` for performance and stability improvements. The progress can be [tracked here](https://github.com/tdhock/animint2/pull/8). Another idea for further improvement would be to port the geom specific code from `animint2` to `ggplot2Animint`.
